@@ -1,18 +1,18 @@
 body
 {
-    color: red;
+    color: black;
     text-align: center;
     font-family: "Arial";
-    background-color:wheat;
+    background-color:white;
     font-size: 16px;   
     margin: 0;
     padding: 0;
 }
 #cabecera
 {
-    background-color: chartreuse;
+    background-color: blue;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
-    color: black;
+    color:white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em ;
@@ -22,7 +22,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: center;
-    border: 1px solid black;
+    border: 10px solid red;
     margin: 0 auto;
 }
 #container h1
